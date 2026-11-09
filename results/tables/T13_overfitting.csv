@@ -1,0 +1,7 @@
+,train macro F1,val macro F1,test macro F1,train minus test
+Image only,0.644,0.508,0.504,0.14
+Text only,0.753,0.556,0.551,0.202
+Tabular only,0.785,0.702,0.714,0.071
+Early fusion,0.861,0.699,0.715,0.145
+Late fusion,0.789,0.703,0.716,0.072
+Attention fusion,0.758,0.697,0.712,0.046

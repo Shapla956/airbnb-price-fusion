@@ -1,0 +1,6 @@
+model,"macro F1, unseen areas (mean)",std,"macro F1, normal test set, no area"
+Image only,0.469,0.026,0.504
+Text only,0.514,0.024,0.551
+Tabular only,0.677,0.027,0.699
+Early fusion,0.682,0.028,0.711
+Late fusion,0.678,0.025,0.699

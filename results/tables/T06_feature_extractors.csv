@@ -1,0 +1,5 @@
+feature extractor,val macro F1 (mean),std over seeds
+Image: EfficientNet-B0,0.51,0.003
+Image: CLIP ViT-B/32 (reference),0.548,0.003
+Text: BERT mean pooling,0.575,0.005
+Text: BERT [CLS],0.549,0.003

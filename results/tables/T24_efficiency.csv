@@ -1,0 +1,7 @@
+,size,"training time (s, mean)",prediction time per listing (ms),"prediction time for 10,000 listings (s)"
+Image only,221 trees,1.21,0.0022,0.022
+Text only,375 trees,2.14,0.0032,0.032
+Tabular only,560 trees,2.62,0.0051,0.051
+Early fusion,548 trees,3.14,0.0073,0.073
+Late fusion,3 tree models,5.97,0.0088,0.088
+Attention fusion,"537,347 weights",27.62,0.0012,0.012

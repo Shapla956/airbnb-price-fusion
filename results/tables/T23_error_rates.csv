@@ -1,0 +1,6 @@
+,Fusion ensemble (CLIP)
+"error rate, all test listings",0.275
+"error rate, photo missing",0.346
+"error rate, text under 20 words",0.186
+"error rate, price within 10% of a class edge",0.422
+"error rate, price far from the edges",0.224

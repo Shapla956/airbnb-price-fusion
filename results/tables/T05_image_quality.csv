@@ -1,0 +1,7 @@
+,share
+photos that failed to download,0.0109
+portrait photos (width/height < 0.9),0.1111
+very dark photos (brightness < 0.25),0.0109
+very bright photos (brightness > 0.85),0.0003
+low contrast photos (contrast < 0.1),0.0007
+"low entropy photos (entropy < 5, e.g. floor plans or text)",0.0054

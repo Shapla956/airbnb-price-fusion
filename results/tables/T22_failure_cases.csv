@@ -1,0 +1,11 @@
+,title,room type,guests,price $,true,predicted,confidence
+0,Furnished room between airport and cbd,Private room,1,588.0,premium,budget,0.99
+1,Sublet,Private room,1,339.0,premium,budget,0.98
+2,Beautiful double bed room,Private room,1,424.0,premium,budget,0.98
+3,Southbank scenic 1 bed ensuite,Private room,1,378.0,premium,budget,0.96
+4,"Friends, food and living in North Melbourne",Shared room,1,799.0,premium,budget,0.96
+5,Serene waterside stay,Private room,2,332.0,premium,budget,0.94
+6,"QUIET, NICE AND EASY TO ACCESS",Private room,1,380.0,premium,budget,0.93
+7,Welcome to our comfortable and relaxing home!,Private room,2,840.0,premium,budget,0.92
+8,Escape to Nature,Private room,3,650.0,premium,budget,0.79
+9,"Near shops, free Wi-Fi, Netflix",Private room,3,346.0,premium,budget,0.78

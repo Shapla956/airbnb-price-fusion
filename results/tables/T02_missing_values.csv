@@ -1,0 +1,8 @@
+column,modality,missing share
+picture_url,image,0.0
+description,text,0.004
+name,text,0.0
+bedrooms,tabular,0.001
+beds,tabular,0.01
+bathrooms_text,tabular,0.001
+review_scores_rating,tabular,0.148

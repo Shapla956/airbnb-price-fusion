@@ -1,0 +1,16 @@
+grouping,model,demographic parity gap,true premium share gap,TPR gap,FPR gap,accuracy gap
+area price group,Attention fusion,0.102,0.173,0.115,0.024,0.039
+area price group,Early fusion,0.118,0.173,0.119,0.016,0.064
+area price group,Fusion ensemble (CLIP),0.122,0.173,0.118,0.016,0.073
+area price group,Late fusion,0.161,0.173,0.13,0.076,0.101
+area price group,Tabular only,0.161,0.173,0.138,0.076,0.105
+area price group x room type,Attention fusion,0.435,0.467,0.455,0.22,0.245
+area price group x room type,Early fusion,0.475,0.467,0.494,0.233,0.274
+area price group x room type,Fusion ensemble (CLIP),0.461,0.467,0.478,0.214,0.267
+area price group x room type,Late fusion,0.486,0.467,0.492,0.207,0.287
+area price group x room type,Tabular only,0.485,0.467,0.492,0.205,0.29
+room type,Attention fusion,0.351,0.354,0.349,0.152,0.209
+room type,Early fusion,0.387,0.354,0.402,0.179,0.209
+room type,Fusion ensemble (CLIP),0.374,0.354,0.42,0.158,0.196
+room type,Late fusion,0.379,0.354,0.442,0.17,0.207
+room type,Tabular only,0.375,0.354,0.437,0.167,0.206

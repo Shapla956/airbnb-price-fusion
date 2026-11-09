@@ -1,0 +1,11 @@
+,,,best epoch,best epoch,val log loss,val log loss,val macro F1,val macro F1
+,,,mean,std,mean,std,mean,std
+model,learning rate,auxiliary loss weight,,,,,,
+Attention fusion,0.0003,0.0,7.0,2.6458,0.6685,0.0033,0.704,0.0029
+Attention fusion,0.0003,0.3,4.6667,1.5275,0.6722,0.0044,0.7038,0.0023
+Attention fusion,0.001,0.0,8.0,4.0,0.6567,0.0091,0.7058,0.0035
+Attention fusion,0.001,0.3,2.6667,2.0817,0.6609,0.0056,0.7014,0.0027
+Gated fusion,0.0003,0.0,6.0,1.0,0.6551,0.0043,0.7052,0.0081
+Gated fusion,0.0003,0.3,6.6667,1.5275,0.6532,0.0017,0.7069,0.0052
+Gated fusion,0.001,0.0,3.6667,0.5774,0.6475,0.0018,0.7026,0.0031
+Gated fusion,0.001,0.3,3.0,1.0,0.6501,0.0027,0.7013,0.0041

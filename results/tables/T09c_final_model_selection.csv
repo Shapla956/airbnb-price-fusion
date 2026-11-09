@@ -1,0 +1,10 @@
+,val macro F1 (mean),val macro F1 (std),val log loss (mean)
+Early fusion,0.6988,0.0022,0.6511
+Late fusion,0.7026,0.0015,0.6497
+Attention fusion,0.6966,0.006,0.672
+Early fusion (CLIP),0.7064,0.0004,0.6506
+Late fusion (CLIP),0.7026,0.0015,0.6497
+Stacking (CLIP),0.7017,0.0015,0.638
+"Attention fusion, tuned (CLIP)",0.7058,0.0029,0.6567
+"Gated fusion, tuned (CLIP)",0.7026,0.0025,0.6475
+Fusion ensemble (CLIP),0.7103,0.0013,0.6315

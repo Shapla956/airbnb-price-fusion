@@ -1,0 +1,4 @@
+,nothing changed,image missing,image shuffled,image noise (std 0.5),image noise (std 1.0),text missing,text shuffled,text noise (std 0.5),text noise (std 1.0),tabular missing,tabular shuffled,tabular noise (std 0.5),tabular noise (std 1.0)
+Early fusion,0.717,0.712,0.715,0.711,0.706,0.701,0.696,0.715,0.701,0.171,0.368,0.595,0.561
+Late fusion,0.716,0.716,0.716,0.716,0.716,0.716,0.715,0.716,0.716,0.558,0.346,0.544,0.479
+Attention fusion,0.712,0.712,0.694,0.712,0.706,0.706,0.687,0.714,0.705,0.569,0.397,0.665,0.571

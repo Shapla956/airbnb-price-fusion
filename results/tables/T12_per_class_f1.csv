@@ -1,0 +1,7 @@
+,F1 budget,F1 mid-range,F1 premium
+Image only,0.588,0.404,0.5
+Text only,0.635,0.478,0.56
+Tabular only,0.798,0.631,0.718
+Early fusion,0.802,0.622,0.729
+Late fusion,0.798,0.63,0.721
+Attention fusion,0.782,0.643,0.71

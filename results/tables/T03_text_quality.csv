@@ -1,0 +1,10 @@
+,value
+median description length (words),71.0
+descriptions under 10 words,0.0289
+descriptions shared by 2+ listings,0.164
+descriptions with HTML tags,0.5445
+descriptions with non-English letters,0.1501
+descriptions with a possible email,0.0001
+descriptions with a possible phone number,0.0002
+descriptions with a possible web link,0.0018
+photo links shared by 2+ listings,0.0349

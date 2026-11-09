@@ -1,0 +1,12 @@
+# Python 3.10 or newer. Google Colab already has most of these.
+numpy
+pandas
+matplotlib
+requests
+pillow
+scikit-learn
+scikit-image
+xgboost>=2.0
+torch
+torchvision
+transformers

@@ -1,0 +1,11 @@
+,test macro F1,worst area macro F1,within-area AUC (premium vs budget)
+Tabular only,0.714,0.59,0.964
+Tabular only (no area),0.699,0.519,0.966
+Early fusion,0.715,0.583,0.969
+Early fusion (no area),0.711,0.593,0.97
+Late fusion,0.716,0.581,0.966
+Late fusion (no area),0.699,0.526,0.967
+Attention fusion,0.712,0.552,0.966
+Attention fusion (no area),0.701,0.56,0.964
+Fusion ensemble (CLIP) (final model),0.73,0.567,0.973
+Area only (most common class of the area),0.422,,0.5
